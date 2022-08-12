@@ -1,4 +1,4 @@
-package dio.com.springsecurty;
+package dio.com.springsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
